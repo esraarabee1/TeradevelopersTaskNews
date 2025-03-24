@@ -17,7 +17,7 @@ A news page built using **HTML** and **CSS**, but instead of **Flexbox** or **CS
 
 ![Section](images/section.png)
 
-![Footer](imgs/footer.png)
+![Footer](images/footer.png)
 
 ## 📂 Technologies Used
 
